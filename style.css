@@ -80,6 +80,11 @@ body {
   margin: 0 0 120px;
 }
 
+.center-pic{
+display:block;
+margin:auto;
+}
+
 .subheading {
   margin: 0 0 56px;
   font-family: "Old Standard TT", "Times", "Times New Roman", serif;
@@ -198,9 +203,4 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
-}
-
-.center-pic{
-display:block;
-margin:auto;
 }
