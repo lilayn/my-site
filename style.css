@@ -36,6 +36,10 @@ body {
   background-position: left;
 }
 
+.header-vk {
+  padding-left: 30px;
+  background-image: url("img/vk-social-network-logo.svg");
+
 .header-email {
   padding-left: 30px;
   background-image: url("img/icon-email-header.svg");
