@@ -39,6 +39,8 @@ body {
 .header-vk {  
   padding-left: 35px;
   background-image: url("img/vk-social-network-logo.svg");
+  height: 200%;
+  width: 200%;
 }
 
 .header-email {
