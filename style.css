@@ -199,3 +199,8 @@ body {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
 }
+
+.center-pic{
+display:block;
+margin:auto;
+}
